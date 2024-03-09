@@ -84,9 +84,9 @@ st.markdown("<h3 style='text-align: center; color: black;'>מידע על הגר�
 
 st.plotly_chart(fig, use_container_width=True)
 ################################# Sankey plot #########################################
-m_df = pd.read_excel('mishtaken_data.xlsx')
+# m_df = pd.read_excel('mishtaken_data.xlsx')
 # Assuming data is your DataFrame containing the data
-data = m_df.groupby(['ConstructionPermitName', 'ProjectStatus']).size().reset_index(name='value_count')
+data = df.groupby(['ConstructionPermitName', 'ProjectStatus']).size().reset_index(name='value_count')
 data.drop(0,inplace=True)
 # Get unique node labels
 labels = pd.concat([data['ConstructionPermitName'], data['ProjectStatus']]).unique()
