@@ -12,7 +12,7 @@ https://appartmentlottery-fqbu6f7xugh9hje2xrnexd.streamlit.app
 
 To get more data, pull the Python file appartement_lottery_scrapign.ipynb and run the Scraper.
 
-##Data Description:
+## Data Description:
 The dataset contains information about government lotteries for apartments, with each row representing a single lottery entry. Below is a description of the columns in the dataset:
 
 1. Lottery Number: The unique identifier for each lottery.
