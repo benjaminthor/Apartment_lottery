@@ -1,6 +1,0 @@
-plotly
-pandas
-seaborn
-wordcloud
-datetime
-matplotlib
