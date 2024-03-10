@@ -24,9 +24,9 @@ The dataset contains information about government lotteries for apartments, with
 7. Registered: Total number of registrations for the lottery.
 8. Registered Natives: Number of registrations from native residents.
 9. Price per Meter: Price per square meter of the apartments.
-10. Grant: Indicates whether there's a grant associated with the apartment (1 if yes, 0 if no).
-11. Natives Chance to win: Probability of a native resident winning the lottery.
-12. Non-Natives Chance to win: Probability of a non-native resident winning the lottery.
+10. Grant: Shows who matches the grant in INS.
+11. Natives' Chance to win: Probability of a native resident winning the lottery.
+12. Non-Native's Chance to win: Probability of a non-native resident winning the lottery.
 13. Region: The region where the apartment is located.
 14. Country: The country where the apartment is located.
 15. Construction Permit Name: Current status of the construction permit.
