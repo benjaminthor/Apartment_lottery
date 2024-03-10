@@ -10,7 +10,7 @@ The project is part of the final university visualization course project.
 Use the following link to show the visualizations:
 https://appartmentlottery-fqbu6f7xugh9hje2xrnexd.streamlit.app
 
-To get more data, pull the Python file appartement_lottery_scrapign.ipynb and run the Scraper.
+To get updated data, pull the Python file appartement_lottery_scrapign.ipynb and run the Scraper.
 
 ## Data Description:
 The dataset contains information about government lotteries for apartments, with each row representing a single lottery entry. Below is a description of the columns in the dataset:
