@@ -1,4 +1,4 @@
-# Appartment lottery data visualization
+# Apartment lottery data visualization
 ## Description:
 The project is part of the final university visualization course project.  
 * I used a Scraper to collect the data from the list of government lotteries on the apartment. 
