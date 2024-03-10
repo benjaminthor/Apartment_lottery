@@ -8,7 +8,7 @@ The project is part of the final university visualization course project.
  
 ## Usage Instructions:
 Use the following link to show the visualizations:
-https://appartmentlottery-fqbu6f7xugh9hje2xrnexd.streamlit.app
+https://apartmentlottery-42u2m8mkvmgcon45voahnb.streamlit.app/
 
 To get updated data, pull the Python file apartement_lottery_scrapign.ipynb and run the Scraper.
 
