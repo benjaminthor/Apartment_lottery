@@ -251,9 +251,9 @@ for location in selected_locations:
                     mode='lines+markers', name=location))
 
 # Update figure layout
-fig.update_layout(xaxis_title='תאריך',
-                  yaxis_title='מחיר למטר',
-                  xaxis=dict(tickangle=45),
+fig.update_layout( xaxis=dict(title='תאריך',titlefont=dict(size=20)),
+                yaxis=dict(title='מחיר למטר',titlefont=dict(size=20)),
+                #   xaxis=dict(tickangle=45),
                   legend=dict(x=0, y=1, traceorder="normal"),width=1300, height=800)
 st.markdown("<h3 style='text-align: center; color: black;'>מחיר למטר לאורך זמן עבור מיקומים נבחרים</h3>", unsafe_allow_html=True)
 
